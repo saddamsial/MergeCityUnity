@@ -1,0 +1,14 @@
+{
+  "UnitPool": [
+    {
+      "CodeName": "BlueHead",
+      "Weight": 50
+    },
+    {
+      "CodeName": "RedHead",
+      "Weight": 50
+    }
+  ],
+  "IntervalDuration": 5,
+  "IntervalMaxUnitCount": 2
+}

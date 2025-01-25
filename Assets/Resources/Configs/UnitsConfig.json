@@ -1,0 +1,31 @@
+{
+  "BlueHead": {
+    "BaseMoveSpeed": 7,
+    "Routine": [
+      {
+        "CodeName": "Bistro_Coffee"
+      },
+      {
+        "CodeName": "Office_Work"
+      },
+      {
+        "CodeName": "Park_Play"
+      }
+    ],
+    "RoutineLoopCount": 0
+  },
+  "RedHead": {
+    "BaseMoveSpeed": 7,
+    "Routine": [
+      {
+        "CodeName": "Office_Work"
+      },
+      {
+        "CodeName": "Park_Play"
+      },
+      {
+        "CodeName": "Bistro_Coffee"
+      }
+    ]
+  }
+}

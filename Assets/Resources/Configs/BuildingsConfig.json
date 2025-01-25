@@ -1,0 +1,30 @@
+{
+  "Bistro": {
+    "Activities": {
+      "Coffee": {
+        "Duration": 5
+      }
+    }
+  },
+  "Office": {
+    "Activities": {
+      "Work": {
+        "Duration": 5
+      }
+    }
+  },
+  "Diner": {
+    "Activities": {
+      "Eat": {
+        "Duration": 5
+      }
+    }
+  },
+  "Park": {
+    "Activities": {
+      "Play": {
+        "Duration": 5
+      }
+    }
+  }
+}

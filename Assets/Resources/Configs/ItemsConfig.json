@@ -1,0 +1,68 @@
+{
+  "Crate": {
+    "BuildingCodeName": "Bistro",
+    "SpaceMatrixRaw": [
+      {
+        "Columns": [
+          1
+        ]
+      }
+    ],
+    "ProductAmount":1,
+    "ProductSpawnInterval": 5,
+    "ProductPool":[
+      {
+        "CodeName": "Pizza",
+        "Weight": 20
+      },
+      {
+        "CodeName": "Wood",
+        "Weight": 20
+      }
+    ]
+  },
+  "Egg": {
+    "BuildingCodeName": "Park",
+    "SpaceMatrixRaw": [
+      {
+        "Columns": [
+          1
+        ]
+      }
+    ],
+    "ProductAmount":1,
+    "ProductSpawnInterval": 5,
+    "ProductPool":[
+      {
+        "CodeName": "Tea",
+        "Weight": 20
+      },
+      {
+        "CodeName": "Wood",
+        "Weight": 20
+      }
+    ]
+  },
+  "Chest": {
+    "BuildingCodeName": "Park",
+    "SpaceMatrixRaw": [
+      {
+        "Columns": [
+          1
+        ]
+      }
+    ],
+    "ProductAmount":1,
+    "ProductSpawnInterval": 5,
+    "ProductPool":[
+      {
+        "CodeName": "Pizza",
+        "Weight": 20
+      },
+      {
+        "CodeName": "Food",
+        "Weight": 20
+      }
+    ]
+  }
+}

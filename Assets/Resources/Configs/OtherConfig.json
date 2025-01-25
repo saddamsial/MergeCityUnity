@@ -1,0 +1,18 @@
+{
+  "TestMergeBoardConfig": {
+    "RowCount": 5,
+    "ColumnCount": 5,
+    "Items": [
+      {
+        "CodeName": "Crate",
+        "RowIndex": 0,
+        "ColumnIndex": 0
+      },
+      {
+        "CodeName": "Crate",
+        "RowIndex": 1,
+        "ColumnIndex": 2
+      }
+    ]
+  }
+}

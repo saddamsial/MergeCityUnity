@@ -1,0 +1,18 @@
+{
+  "BaseEnergy":70,
+  "MaxEnergy":100,
+  "RecoverSpeed":1.1,
+  "Level": [
+    {
+      "RecoverSpeedUpgrade":1.1
+    },
+    {
+      "RecoverSpeedUpgrade":1.2
+    },  {
+      "RecoverSpeedUpgrade":1.3
+    },  {
+      "RecoverSpeedUpgrade":1.4
+    }
+  ]
+  
+}

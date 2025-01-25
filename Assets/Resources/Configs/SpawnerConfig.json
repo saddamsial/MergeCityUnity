@@ -1,0 +1,18 @@
+
+ {
+    "BaseSpawnInterval": 5,
+    "ItemPool": [
+      {
+        "CodeName": "Crate",
+        "Weight": 20
+      },
+      {
+        "CodeName": "Egg",
+        "Weight": 40
+      },
+      {
+        "CodeName": "Chest",
+        "Weight": 42
+      }
+    ]
+}
